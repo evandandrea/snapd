@@ -70,6 +70,7 @@ var allInterfaces = []interfaces.Interface{
 	NewCoreSupportInterface(),
 	NewCupsControlInterface(),
 	NewDcdbasControlInterface(),
+	NewDotAwsInterface(),
 	NewFirewallControlInterface(),
 	NewFuseSupportInterface(),
 	NewGsettingsInterface(),

@@ -38,6 +38,7 @@ var implicitSlots = []string{
 	"core-support",
 	"dcdbas-control",
 	"docker-support",
+	"dot-aws",
 	"firewall-control",
 	"framebuffer",
 	"hardware-observe",
